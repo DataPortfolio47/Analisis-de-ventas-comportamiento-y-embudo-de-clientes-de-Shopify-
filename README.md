@@ -10,7 +10,7 @@ Este proyecto estudia el rendimiento de las transacciones, la distribución geog
 
 El análisis mostró que las ventas netas llegaron a $4.18M. La categoría de calzado deportivo, especialmente Running Shoes con $1.5M, fue la principal causa. Aunque hay muchos clientes que vuelven a comprar, con una tasa de recurrencia del 46%, más de la mitad de los compradores, 2,392 de 4,431, solo han hecho un pedido. Shopify Payments es el método de pago más usado por los clientes, con un 58.45%. También se vio que los ingresos se concentran mucho en ciudades clave como Washington y Houston.
 
-## Herramientas Utilizadas
+## 🛠️ Herramientas Utilizadas
 
 
 
