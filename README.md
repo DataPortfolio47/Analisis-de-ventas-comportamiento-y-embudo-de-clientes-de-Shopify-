@@ -12,5 +12,9 @@ El análisis mostró que las ventas netas llegaron a $4.18M. La categoría de ca
 
 ## 🛠️ Herramientas Utilizadas
 
-
+- Excel: Limpieza y transformación de datos con Power Query. 
+- ETL (extracción, transformación y carga de datos)
+- Limpieza y transformación de datos
+- Modelado de datos
+- Visualización de datos
 
