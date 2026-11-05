@@ -23,6 +23,9 @@ Analicé el conjunto de datos de transacciones de Shopify. Me enfoqué en el ren
 ## Conclusiones Principales 
 
 - Dominio de la categoría principal: Las líneas de calzado deportivo, como Running Shoes, Tennis Shoes y Walking Shoes, generan la gran mayoría de los $4.18M en ventas netas totales. Categorías como accesorios o prendas secundarias representan una porción mínima del volumen comercial.
+
 - Oportunidad en la retención de clientes: Aunque hay una tasa de recurrencia notable del 46% (2,039 clientes habituales), el 54% de la base total de clientes (2,392 de 4,431) ha hecho solo un pedido. Esto muestra que hay mucho espacio para aumentar la lealtad de compra.
+
 - La mayoría de las transacciones ocurren en solo dos canales de pago. Shopify Payments tiene el 58.45% y PayPal el 16.29%. En conjunto, casi el 75% de las transacciones pasan por estas dos opciones.
+ 
 - Picos temporales de conversión: Las transacciones cambian su comportamiento en días concretos del mes. También hay concentraciones claras de tráfico en ciertas franjas horarias. Esto permite prever los momentos de mayor volumen operacional.
