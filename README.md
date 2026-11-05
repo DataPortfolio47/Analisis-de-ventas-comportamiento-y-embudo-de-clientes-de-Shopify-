@@ -13,8 +13,7 @@ El análisis mostró que las ventas netas llegaron a $4.18M. La categoría de ca
 ## 🛠️ Herramientas Utilizadas
 
 - Excel: Limpieza y transformación de datos con Power Query. 
-- ETL (extracción, transformación y carga de datos)
-- Limpieza y transformación de datos
-- Modelado de datos
-- Visualización de datos
+- DAX (Data Analysis Expressions): Creé medidas dinámicas para calcular métricas de rendimiento transaccional, comportamiento del cliente (Lifetime Value, tasa de compra recurrente, frecuencia de compra) y lógica de selección de medidas.
+- Power BI: Creé un panel de control interactivo que muestra mapas de densidad geográfica, gráficos de tendencia temporal, pasarelas de pago y filtrado cruzado dinámico entre visualizaciones. 
+
 
