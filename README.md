@@ -2,7 +2,7 @@
 
 ![Dashboard de Ventas de Shopify](Dashboard.png)
 
-![Dashboard de Ventas de Shopify](Dashboard_2.png)
+(Dashboard_2.png)
 
 ## Contexto del Proyecto
 
