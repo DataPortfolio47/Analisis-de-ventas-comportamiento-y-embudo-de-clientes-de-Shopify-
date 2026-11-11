@@ -20,7 +20,7 @@ Analicé el conjunto de datos de transacciones de Shopify. Me enfoqué en el ren
 
 ## Conclusiones Principales 
 
-- Dominio de la categoría principal: Las líneas de calzado deportivo, como Running Shoes, Tennis Shoes y Walking Shoes, generan la gran mayoría de los $4.18M en ventas netas totales. Categorías como accesorios o prendas secundarias representan una porción mínima del volumen comercial.
+- Ventas: $4.18M netos. Se vendieron 7,534 unidades, y el valor promedio por pedido fue de $562.6.
 
 - Oportunidad en la retención de clientes: Aunque hay una tasa de recurrencia notable del 46% (2,039 clientes habituales), el 54% de la base total de clientes (2,392 de 4,431) ha hecho solo un pedido. Esto muestra que hay mucho espacio para aumentar la lealtad de compra.
 
