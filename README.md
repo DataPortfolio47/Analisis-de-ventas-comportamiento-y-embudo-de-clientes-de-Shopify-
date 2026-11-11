@@ -1,6 +1,7 @@
 # 📊 Análisis de Ventas, Comportamiento y Embudo de Clientes de Shopify 
 
 ![Dashboard de Ventas de Shopify](Dashboard.png)
+
 (Dashboard_2.png)
 
 ## Contexto del Proyecto
