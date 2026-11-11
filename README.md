@@ -2,6 +2,8 @@
 
 ![Dashboard de Ventas de Shopify](Dashboard.png)
 
+![Dashboard de Ventas de Shopify](![Dashboard de Ventas de Shopify](Dashboard_2.png)
+
 ## Contexto del Proyecto
 
 Desarrollé este proyecto para analizar las compras y el comportamiento de 4,431 clientes de una tienda Shopify. El dashboard muestra el rendimiento por método de pago, categoría de producto, ubicación geográfica (mapa regional y ranking de ciudades) y patrones de tráfico por día y hora. Está pensado para ayudar a que los equipos de operaciones y marketing encuentren los mercados con mayor conversión, mejoren la retención de clientes recurrentes y ajusten los horarios de mayor venta.
