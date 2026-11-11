@@ -22,8 +22,8 @@ Analicé el conjunto de datos de transacciones de Shopify. Me enfoqué en el ren
 
 - Ventas: $4.18M netos. Se vendieron 7,534 unidades, y el valor promedio por pedido fue de $562.6.
 
-- Calzado deportivo lidera: Running (1.5M),Tennis(0.9M) y Walking ($0.6M) suman cerca del 72% de las ventas. Accesorios y prendas secundarias aportan una porción mínima.
+- Calzado deportivo lidera: Running ($1.5M),Tennis($0.9M) y Walking ($0.6M) suman cerca del 72% de las ventas. Accesorios y prendas secundarias aportan una porción mínima.
 
-- La mayoría de las transacciones ocurren en solo dos canales de pago. Shopify Payments tiene el 58.45% y PayPal el 17.62%. En conjunto, casi el 75% de las transacciones pasan por estas dos opciones.
+- Retención: La tasa de recurrencia es del 46% (2,039 clientes habituales). El 54% (2,392) compró una sola vez. Con un LTV de $943.6 y una frecuencia de 1.68, hay espacio claro para aumentar la lealtad.
  
 - Picos temporales de conversión: Las transacciones cambian su comportamiento en días concretos del mes. También hay concentraciones claras de tráfico en ciertas franjas horarias. Esto permite prever los momentos de mayor volumen operacional.
