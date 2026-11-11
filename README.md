@@ -26,4 +26,8 @@ Analicé el conjunto de datos de transacciones de Shopify. Me enfoqué en el ren
 
 - Retención: La tasa de recurrencia es del 46% (2,039 clientes habituales). El 54% (2,392) compró una sola vez. Con un LTV de $943.6 y una frecuencia de 1.68, hay espacio claro para aumentar la lealtad.
  
-- Picos temporales de conversión: Las transacciones cambian su comportamiento en días concretos del mes. También hay concentraciones claras de tráfico en ciertas franjas horarias. Esto permite prever los momentos de mayor volumen operacional.
+- Pagos: Shopify Payments aporta el 58.45% de los ingresos y PayPal el 17.62%. Juntos suman cerca del 76% de las ventas netas.
+
+- Geografía: Los ingresos están concentrados en Washington, Houston, Nueva York y El Paso.
+
+- Tiempo: el día 24 tuvo la mayor venta ($683,843). La actividad se concentra entre las 9 y las 21 h, con su pico a las 11 h.
