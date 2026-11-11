@@ -9,7 +9,7 @@
 
 Desarrollé este proyecto para analizar las compras y el comportamiento de 4,431 clientes de una tienda Shopify. El dashboard muestra el rendimiento por método de pago, categoría de producto, ubicación geográfica (mapa regional y ranking de ciudades) y patrones de tráfico por día y hora. Está pensado para ayudar a que los equipos de operaciones y marketing encuentren los mercados con mayor conversión, mejoren la retención de clientes recurrentes y ajusten los horarios de mayor venta.
 
-Dividí a los clientes en compradores únicos y habituales. Relacioné las ventas netas con la pasarela de pago, la categoría de producto, la ubicación y la marca de tiempo, que incluye el día y la hora, durante una ventana de 7 días, del 18 al 24. 
+Dividí a los clientes en compradores únicos y habituales. Relacioné las ventas netas con la pasarela de pago, la categoría de producto, la ubicación y la marca de tiempo, que incluye el día y la hora, durante una ventana de 7 días, del día 18 al día 24. 
 
 ## 🛠️ Herramientas Utilizadas
 
