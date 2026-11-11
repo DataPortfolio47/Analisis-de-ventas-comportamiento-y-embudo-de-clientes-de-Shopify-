@@ -16,7 +16,7 @@ Dividí a los clientes en compradores únicos y habituales. Relacioné las venta
 
 - Power BI: Creé un panel de control interactivo que muestra mapas de densidad geográfica, gráficos de tendencia temporal, pasarelas de pago y filtrado cruzado dinámico entre visualizaciones. 
 
-Analicé el conjunto de datos de transacciones de Shopify. Me enfoqué en el rendimiento por región, por periodos de tiempo y por tipo de cliente. Clasifiqué a los usuarios en compradores únicos y compradores habituales para ver métricas de retención como el LTV ($943.6) y la frecuencia de compra (1.68). Después, agrupé las ventas netas por pasarelas de pago, categorías de productos y ubicaciones como estados y ciudades en EE. UU. Crucé estos datos con las marcas de tiempo por día y hora para encontrar los momentos con mayor conversión operativa.
+Analicé las transacciones de Shopify por región, periodo y tipo de cliente. Clasifiqué a los usuarios en compradores únicos y habituales. Así pude calcular métricas de retención como el LTV ($943.6) y la frecuencia de compra (1.68). Agrupé las ventas netas por pasarela de pago, categoría de producto y ubicación, como estados y ciudades de EE. UU. También las comparé con las marcas de tiempo por día y hora para encontrar los momentos con más ventas.
 
 ## Conclusiones Principales 
 
