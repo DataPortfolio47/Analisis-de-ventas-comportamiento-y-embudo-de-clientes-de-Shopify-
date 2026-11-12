@@ -15,7 +15,7 @@ Dividí a los clientes en compradores únicos y habituales. Relacioné las venta
 
 - Excel: Limpieza y transformación de datos con Power Query.
 
-- DAX (Data Analysis Expressions): Creé medidas dinámicas para calcular métricas de rendimiento transaccional, comportamiento del cliente (Lifetime Value, tasa de compra recurrente, frecuencia de compra) y lógica de selección de medidas.
+- DAX (Data Analysis Expressions): Creé medidas dinámicas para calcular métricas de rendimiento transaccional, comportamiento del cliente (clientes de un sólo pedido y clientes habituales), KPIs de retención y valor(Lifetime Value, tasa de compra recurrente, y frecuencia de compra), ecetera.
 
 - Power BI: Creé un panel de control interactivo que muestra mapas de densidad geográfica, gráficos de tendencia temporal, pasarelas de pago y filtrado cruzado dinámico entre visualizaciones. 
 
